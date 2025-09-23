@@ -24,6 +24,7 @@ function sortearAmigo() {
 }
 
 
+
 function limpiarNombre(){
     document.getElementById("amigo").value = "";
 }
