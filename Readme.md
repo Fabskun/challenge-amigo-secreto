@@ -24,7 +24,7 @@ Este proyecto es una aplicación web sencilla para organizar un sorteo de "Amigo
 
 ## 📸 Vista previa
 
-> Puedes agregar aquí una captura de pantalla del proyecto si lo deseas.
+![alt text](assets/preview.png)
 
 ---
 
@@ -42,7 +42,7 @@ Este proyecto es una aplicación web sencilla para organizar un sorteo de "Amigo
 ```bash
 git clone https://github.com/Fabskun/challenge-amigo-secreto.git
 
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 
 2. Abre el archivo index.html en tu navegador.
 3. Escribe nombres en el campo de entrada y haz clic en "Agregar".
