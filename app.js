@@ -32,12 +32,13 @@ function sortearAmigo() {
   }
 }
 
-<<<<<<< HEAD
+
 
 
 function limpiarNombre(){
     document.getElementById("amigo").value = "";
-=======
+}
+
 function limpiarNombre() {
   document.getElementById("amigo").value = "";
 }
@@ -49,5 +50,5 @@ function mostrarAmigos() {
   for (var i = 0; i < amigos.length; i++) {
     lista.innerHTML += `<li>${amigos[i]}</li>`;
   }
->>>>>>> desarrollo
+
 }
